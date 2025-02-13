@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/193945290097543507/1d5eb87da84b47e8ad07162dbd308c51/artifacts
+end_time: 1736187531817
+entry_point_name: ''
+experiment_id: '193945290097543507'
+lifecycle_stage: active
+run_id: 1d5eb87da84b47e8ad07162dbd308c51
+run_name: handsome-ox-639
+run_uuid: 1d5eb87da84b47e8ad07162dbd308c51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736187496630
+status: 3
+tags: []
+user_id: chakrapa

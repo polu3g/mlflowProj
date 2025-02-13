@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/193945290097543507/7dfe1337fe204bc9ab4317858b1e7490/artifacts
+end_time: 1736185756197
+entry_point_name: ''
+experiment_id: '193945290097543507'
+lifecycle_stage: active
+run_id: 7dfe1337fe204bc9ab4317858b1e7490
+run_name: gaudy-dog-425
+run_uuid: 7dfe1337fe204bc9ab4317858b1e7490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736185733243
+status: 4
+tags: []
+user_id: chakrapa

@@ -1,0 +1,9 @@
+name: my_project_env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - pip:
+      - mlflow
+      - tensorflow

@@ -1,0 +1,5 @@
+name: My MLflow Project
+conda_env: conda.yaml
+entry_points:
+  main:
+    command: "python train3.py"

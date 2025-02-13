@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/193945290097543507/50fd16383773488a9e5a76e0cf1abb2b/artifacts
+end_time: 1736105865744
+entry_point_name: ''
+experiment_id: '193945290097543507'
+lifecycle_stage: active
+run_id: 50fd16383773488a9e5a76e0cf1abb2b
+run_name: upset-stoat-843
+run_uuid: 50fd16383773488a9e5a76e0cf1abb2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736105838946
+status: 4
+tags: []
+user_id: chakrapa

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/193945290097543507/e48989698d5343b5bca686f4848e933a/artifacts
+end_time: 1736187455658
+entry_point_name: ''
+experiment_id: '193945290097543507'
+lifecycle_stage: active
+run_id: e48989698d5343b5bca686f4848e933a
+run_name: wise-worm-991
+run_uuid: e48989698d5343b5bca686f4848e933a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736187444130
+status: 4
+tags: []
+user_id: chakrapa

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d933ad6f75734256a346ad97081b66ac/artifacts
+end_time: 1736185351002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d933ad6f75734256a346ad97081b66ac
+run_name: enchanting-shoat-720
+run_uuid: d933ad6f75734256a346ad97081b66ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736185350801
+status: 4
+tags: []
+user_id: chakrapa

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/193945290097543507/e56569eb931443299d14cec8065c270b/artifacts
+end_time: 1736105752808
+entry_point_name: ''
+experiment_id: '193945290097543507'
+lifecycle_stage: active
+run_id: e56569eb931443299d14cec8065c270b
+run_name: defiant-bird-399
+run_uuid: e56569eb931443299d14cec8065c270b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736105724805
+status: 4
+tags: []
+user_id: chakrapa

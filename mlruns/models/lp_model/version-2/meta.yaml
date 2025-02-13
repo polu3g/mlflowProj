@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736185755614
+current_stage: None
+description: ''
+last_updated_timestamp: 1736185755614
+name: lp_model
+run_id: 7dfe1337fe204bc9ab4317858b1e7490
+run_link: ''
+source: mlflow-artifacts:/193945290097543507/7dfe1337fe204bc9ab4317858b1e7490/artifacts/lp_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/193945290097543507/7dfe1337fe204bc9ab4317858b1e7490/artifacts/lp_model
+user_id: null
+version: 2
